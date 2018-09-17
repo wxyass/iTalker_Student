@@ -3,11 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ITalker.iml" filepath="$PROJECT_DIR$/ITalker.iml" />
-      <module fileurl="file://E:\githubspace\IntelliJThinkpad\iTalker_Student\App\ITalker\ITalker.iml" filepath="E:\githubspace\IntelliJThinkpad\iTalker_Student\App\ITalker\ITalker.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://E:\githubspace\IntelliJThinkpad\iTalker_Student\App\ITalker\app\app.iml" filepath="E:\githubspace\IntelliJThinkpad\iTalker_Student\App\ITalker\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/yass-common/yass-common.iml" filepath="$PROJECT_DIR$/yass-common/yass-common.iml" />
-      <module fileurl="file://E:\githubspace\IntelliJThinkpad\iTalker_Student\App\ITalker\yass-common\yass-common.iml" filepath="E:\githubspace\IntelliJThinkpad\iTalker_Student\App\ITalker\yass-common\yass-common.iml" />
     </modules>
   </component>
 </project>

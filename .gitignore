@@ -72,4 +72,14 @@ fastlane/readme.md
 
 Web/iTalker/.idea/
 Web/iTalker/build/
-ImoocMessager/
+
+App/ITalker/.idea/
+
+App/ITalker/.idea/gradle.xml
+
+App/ITalker/.idea/modules.xml
+
+Web/iTalker/out/*
+
+
+

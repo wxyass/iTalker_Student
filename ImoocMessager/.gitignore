@@ -1,0 +1,13 @@
+
+*.lock
+
+Web/iTalker/.idea/
+Web/iTalker/build/
+
+App/ITalker/.idea/
+
+App/ITalker/.idea/gradle.xml
+
+App/ITalker/.idea/modules.xml
+
+Web/iTalker/out/*

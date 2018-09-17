@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/ITalker.iml" filepath="$PROJECT_DIR$/ITalker.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/yass-common/yass-common.iml" filepath="$PROJECT_DIR$/yass-common/yass-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yass-face-res/yass-face-res.iml" filepath="$PROJECT_DIR$/yass-face-res/yass-face-res.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yass-factory/yass-factory.iml" filepath="$PROJECT_DIR$/yass-factory/yass-factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yass-lang/yass-lang.iml" filepath="$PROJECT_DIR$/yass-lang/yass-lang.iml" />
     </modules>
   </component>
 </project>

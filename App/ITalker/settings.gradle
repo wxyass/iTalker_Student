@@ -1,1 +1,1 @@
-include ':app', ':yass-common'
+include ':app', ':yass-common', ':yass-lang', ':yass-face-res', ':yass-factory'

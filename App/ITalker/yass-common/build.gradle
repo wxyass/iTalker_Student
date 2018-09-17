@@ -42,10 +42,10 @@ dependencies {
 
     compile "net.qiujuer.genius:ui:$rootProject.ext.geniusVersion"
     compile "net.qiujuer.genius:res:$rootProject.ext.geniusVersion"
+    compile "net.qiujuer.genius:kit-handler:$rootProject.ext.geniusVersion"
+
     compile "de.hdodenhof:circleimageview:$rootProject.ext.circleimageviewVersion"
     compile "com.github.bumptech.glide:glide:$rootProject.ext.glideVersion"
-
-    compile "net.qiujuer.genius:kit-handler:$rootProject.ext.geniusVersion"
     compile "com.google.code.gson:gson:$rootProject.ext.gsonVersion"
 
     // 空气面板
@@ -57,8 +57,6 @@ dependencies {
     compile "com.jakewharton:butterknife:$rootProject.ext.butterknifeVersion"
     annotationProcessor "com.jakewharton:butterknife-compiler:$rootProject.ext.butterknifeVersion"
 
-
-
-    //compile project(':lang')
-    //compile project(':face-res')
+    compile project(':yass-lang')
+    compile project(':yass-face-res')
 }

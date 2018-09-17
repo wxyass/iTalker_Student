@@ -35,7 +35,7 @@ dependencies {
     })
 
     //compile project(':factory')
-    implementation project(':yass-common')
+    implementation project(':yass-factory')
 
     //Android Support包
     compile "com.android.support:appcompat-v7:$rootProject.v4Version"
